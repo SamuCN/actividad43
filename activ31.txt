@@ -1,3 +1,7 @@
 Primer archivo
 Añadimos una nueva linea para el primer archivo
+<<<<<<< HEAD
 Este es el paso número cinco
+=======
+Este es el paso número cuatro
+>>>>>>> actividad3
